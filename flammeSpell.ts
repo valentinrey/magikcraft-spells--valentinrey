@@ -1,6 +1,6 @@
 const magik = magikcraft.io;
 
-function newSpell(name: string) {
+function flammeSpell(name: string) {
 	magik.incendium(name);
 }
 
